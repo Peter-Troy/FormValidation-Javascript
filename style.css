@@ -1,0 +1,18 @@
+
+    .error {
+      color: red;
+    }
+
+    h1{
+      display: flex;
+      justify-content: center;
+    }
+
+    label {
+      font-weight: bold;
+    }
+
+    .center-button {
+      display: flex;
+      justify-content: center;
+    }
